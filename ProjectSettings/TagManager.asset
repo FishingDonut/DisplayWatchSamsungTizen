@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - cone
+  - bullet
+  - enemy
+  - blockObject
   layers:
   - Default
   - TransparentFX
